@@ -1,1 +1,2 @@
 Hello, this is file1.txt
+this file is just to test things in Git
